@@ -1,0 +1,27 @@
+
+Three types of convergence informations (Time, residual error, relative error, no of iterations are the number of rows of each data- 1000,000)
+
+Dataset Info: four types of datasets:
+
+1. random Gaussian
+2. random highly correlated
+3. LibSVM collection
+4. Netlib LP collection
+5. Matrix Market Sparse Data
+
+
+*** CPU Time vs Sample size:
+
+Use the "CPU time vs sample size.m" file for time vs beta data genration for the test instances.
+
+*** CPU Time vs Delta:
+
+Use the "CPU time vs delta.m" file for time vs delta data genration for the test instances.
+
+
+
+*** Residual, FSC vs Time & No. of Iterations:
+
+Use the "res_FSC_DC.m" file for the decay data generation for the test instances by varying beta, delta.
+
+
